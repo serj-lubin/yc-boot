@@ -1,0 +1,2 @@
+ yc compute instance list  |grep RUNN | awk {' print $10 '}
+84.201.173.25
